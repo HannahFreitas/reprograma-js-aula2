@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+background-image: url("imagem-fundo.jpg") ;
+}
+
+#imagemInicio {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: 150px;
+}
+
+h1{
+    color:darkgoldenrod;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    color: darkred;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+text-align: center;
+color: deeppink;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
